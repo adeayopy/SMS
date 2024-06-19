@@ -1,0 +1,1 @@
+Kindly look at the ```duplicate header.ipynb``` file. A sample data, ```Purdue_ACRE_DTC_2021_1_1```, is provided 
