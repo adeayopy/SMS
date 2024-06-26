@@ -1,0 +1,41 @@
+fields:
+- name: Longitude
+  type: number
+- name: Latitude
+  type: number
+- name: Field
+  type: string
+- name: Dataset
+  type: string
+- name: Product
+  type: string
+- name: Obj. Id
+  type: integer
+- name: Time
+  type: string
+- name: Elevation(ft)
+  type: number
+- name: Wind Speed(mph)
+  type: number
+- name: Wind Gusts(mph)
+  type: number
+- name: Humidity(%)
+  type: number
+- name: Air Temp(°F)
+  type: number
+- name: Speed(mph)
+  type: number
+- name: Duration(s)
+  type: number
+- name: Prod(ac/h)
+  type: number
+- name: Date
+  type: string
+- name: Soil Type
+  type: any
+missingValues:
+- ''
+- n/a
+- nan
+- <NA>
+- N/A
